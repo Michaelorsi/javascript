@@ -18,7 +18,6 @@ header {
 
 
 div {
-
     padding: 10px;
 }
 
@@ -29,6 +28,4 @@ section {
     width: 400px;
     margin: auto;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.418);
-
-
 }
